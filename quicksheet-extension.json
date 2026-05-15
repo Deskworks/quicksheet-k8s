@@ -1,0 +1,9 @@
+{
+  "name": "Kubernetes Pod Status",
+  "prefix": "k8s",
+  "description": "Live Kubernetes pod status from your current kubeconfig context",
+  "version": "1.0.0",
+  "author": "cemheren",
+  "entry": "dotnet run --project .",
+  "repository": "https://github.com/cemheren/quicksheet-k8s"
+}
