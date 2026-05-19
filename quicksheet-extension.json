@@ -5,5 +5,5 @@
   "version": "1.0.0",
   "author": "cemheren",
   "entry": "dotnet run --project .",
-  "repository": "https://github.com/cemheren/quicksheet-k8s"
+  "repository": "https://github.com/Deskworks/quicksheet-k8s"
 }
