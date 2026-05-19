@@ -15,7 +15,7 @@ appear on your wallpaper without opening a terminal.
 In any QuickSheet cell:
 
 ```
-ext: github:cemheren/quicksheet-k8s
+ext: github:Deskworks/quicksheet-k8s
 ```
 
 ## Usage
